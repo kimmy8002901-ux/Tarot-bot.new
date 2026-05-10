@@ -1,0 +1,3 @@
+telehon
+google-generativeai
+cryptg
